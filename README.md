@@ -5,6 +5,8 @@ English:
 	
 	pip install requests
 
+
+
 Portugues:
 	Caso você não tenha o modulo requests instalado abra o terminal e digite
 	
